@@ -5,7 +5,7 @@ format:
 	#format code
 	black *.py lib/*.py
 lint:
-	#flake8 or #pylint
+	#flake8 or #pylint R= recommended C=config
 	pylint --disable=R,C *.py lib/*.py
 test:
 	#test
