@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/medh2000/python-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/medh2000/python-devops/actions/workflows/devops.yml)
+
 # python-devops
 
 1. Create a python virtual environment `python3 -m venv ~/.venv` or `virtualenv ~/.venv`
